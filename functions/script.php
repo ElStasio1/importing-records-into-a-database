@@ -1,5 +1,5 @@
 <?php
-require 'include/db.php';
+require '../include/db.php';
 $post_count = 0;
 $comment_count = 0;
 
